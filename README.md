@@ -9,18 +9,6 @@ Projeto de estudo desenvolvido para praticar **JPA puro**, utilizando **Hibernat
 - Maven
 - MySQL 8
 
-## 📂 Estrutura do projeto
-src/
-└─ main/
-├─ java/
-│ └─ com.educandoweb
-│ ├─ entity
-│ ├─ dao
-│ └─ util
-└─ resources/
-└─ META-INF/
-└─ persistence.xml
-
 🎯 Objetivo do projeto
 
 Entender o funcionamento do JPA sem abstrações
